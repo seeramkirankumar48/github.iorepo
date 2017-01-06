@@ -37,3 +37,4 @@ C:\Users\v-kiseer\Desktop\Git\WebApplication1\WebApplication1\bin\Microsoft.Code
 C:\Users\v-kiseer\Desktop\Git\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\v-kiseer\Desktop\Git\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\v-kiseer\Desktop\Git\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\v-kiseer\Desktop\Git\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
